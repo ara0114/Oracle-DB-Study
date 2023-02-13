@@ -2,7 +2,7 @@
 
 ## 한 주간 공부한 것에 대하여 설명해주세요.
 
-<img src="https://user-images.githubusercontent.com/103404127/218466883-7c6a4528-df95-4711-a87b-27e1c6d806a1.jpgg">
+<img src="https://user-images.githubusercontent.com/103404127/218468117-0e8cad16-426c-4552-9b58-658b06c0b4ae.jpg">
 
 <img src="https://user-images.githubusercontent.com/103404127/218466920-d837321c-9564-4d60-b805-889862a46e51.jpg">
 
