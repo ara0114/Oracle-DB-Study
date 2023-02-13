@@ -38,7 +38,9 @@ Oracle 12c DBA과정, 오라클 아키텍처 입문, 그림으로 공부하는 �
 
 ### S03. [데이터베이스 저장영역 관리](https://github.com/ara0114/Oracle-DB-Study/blob/0b20b25b3036c82ca699963241bdd2ce7aca2c39/03-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%A0%80%EC%9E%A5%EC%98%81%EC%97%AD%20%EA%B4%80%EB%A6%AC.md)
 
-### S04. 유저 보안 관리
+### Week01. [S01 ~ S03](https://github.com/ara0114/Oracle-DB-Study/blob/ce9a3dfd4e7086b7fd863dad9ac604287930ce43/week01.md)
+
+### S04. [유저 보안 관리](https://github.com/ara0114/Oracle-DB-Study/blob/b84a6186760c0df6d6793c0c3bf3237bacef8b9a/04-%EC%9C%A0%EC%A0%80%20%EB%B3%B4%EC%95%88%20%EA%B4%80%EB%A6%AC.md)
 
 ### S05. 데이터 동시성 관리
 
