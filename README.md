@@ -45,3 +45,5 @@ Oracle 12c DBA과정, 오라클 아키텍처 입문, 그림으로 공부하는 �
 ### S05. [데이터 동시성 관리](https://github.com/ara0114/Oracle-DB-Study/blob/86c34747a57f7e77356523a8927db6a0b7b5ab6a/05-%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8F%99%EC%8B%9C%EC%84%B1%20%EA%B4%80%EB%A6%AC.md)
 
 ### S06. [데이터 이동](https://github.com/ara0114/Oracle-DB-Study/blob/86c34747a57f7e77356523a8927db6a0b7b5ab6a/06-%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9D%B4%EB%8F%99.md)
+
+### Week02. [S01 ~ S06](https://github.com/ara0114/Oracle-DB-Study/blob/ea170ff66fcbccd2f94da1beead9f729cc80c6b7/week02.md)
